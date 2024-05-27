@@ -1,0 +1,499 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\pages\\admin\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:pages\\admin\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\pages\\admin\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:pages\\admin\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\pages\\admin\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:pages\\admin\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\pages\\admin\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:pages\\admin\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\services\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:services\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\pages\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:pages\\admin\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\pages\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:pages\\admin\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\pages\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:pages\\admin\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\pages\\client\\client.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:pages\\client\\client.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\pages\\admin\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:pages\\admin\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\migrations\\20240527104428_authdbsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:migrations\\20240527104428_authdbsetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\pages\\admin\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:pages\\admin\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\pages\\client\\client.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:pages\\client\\client.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|c:\\users\\eakhalkatsi\\desktop\\authsystem\\migrations\\applicationdb\\20240527104448_addproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54027106-E3E5-44C1-80EC-F8511E5683DE}|AuthSystem.csproj|solutionrelative:migrations\\applicationdb\\20240527104448_addproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1868876116:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1972725675:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:37:47.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:56:03.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T20:59:40.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Client.cshtml",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Client\\Client.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Client\\Client.cshtml",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Client\\Client.cshtml",
+              "RelativeToolTip": "Pages\\Client\\Client.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T19:08:23.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:57:19.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:28:27.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:27:39.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:40:15.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Services\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:43:41.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Services\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Services\\AuthDbContext.cs",
+              "RelativeToolTip": "Services\\AuthDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:27:09.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Admin.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Admin.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Admin.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T19:06:05.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Edit.cshtml.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAcwEYAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:10:29.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T11:37:41.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T19:09:03.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwDcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-27T11:10:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Admin\\Products\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T20:27:47.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Models\\ProductDto.cs",
+              "RelativeToolTip": "Models\\ProductDto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:56:43.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswBsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T11:19:06.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240527104428_AuthDbSetup.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Migrations\\20240527104428_AuthDbSetup.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240527104428_AuthDbSetup.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Migrations\\20240527104428_AuthDbSetup.cs",
+              "RelativeToolTip": "Migrations\\20240527104428_AuthDbSetup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:44:28.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240527104448_AddProducts.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Migrations\\ApplicationDb\\20240527104448_AddProducts.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDb\\20240527104448_AddProducts.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Migrations\\ApplicationDb\\20240527104448_AddProducts.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDb\\20240527104448_AddProducts.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T10:44:48.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-21T08:17:44.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Client.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Client\\Client.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Client\\Client.cshtml.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Pages\\Client\\Client.cshtml.cs",
+              "RelativeToolTip": "Pages\\Client\\Client.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T19:09:41.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAmwJIAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T11:59:18.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T11:33:58.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T11:33:57.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:16:03.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T12:44:31.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-21T11:14:16.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\eakhalkatsi\\Desktop\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:54:38.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

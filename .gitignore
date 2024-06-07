@@ -8,6 +8,8 @@
 *.sln.docstates
 *.ipch/
 *.obj/
+*obj/
+*.Debug/
 *.bin/
 *.dll
 *.pdb
@@ -21,6 +23,7 @@ node_modules/
 # Ignore build output directories
 bin/
 obj/
+Debug/
 
 # Ignore ReSharper files
 _ReSharper*/

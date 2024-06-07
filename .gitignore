@@ -1,35 +1,14 @@
-# Ignore Visual Studio temporary files, build results, and
-# folder-based project configuration
+# Ignore Visual Studio temporary files and build results
 .vs/
-*.vscode/
+.vscode/
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 *.ipch/
-*.obj/
-*obj/
-*.Debug/
-*.bin/
-*.dll
-*.pdb
-
-# Ignore NuGet packages directory
-packages/
-
-# Ignore Node.js dependencies directory
-node_modules/
-
-# Ignore build output directories
-bin/
-obj/
-Debug/
 
 # Ignore ReSharper files
 _ReSharper*/
-
-# Ignore Visual Studio Code settings
-.vscode/
 
 # Ignore JetBrains Rider files
 .idea/
@@ -39,13 +18,45 @@ _ReSharper*/
 *.log
 *.cache
 
+# Ignore NuGet packages and project-specific cache files
+packages/
+*.nuget.dgspec.json
+project.assets.json
+project.nuget.cache
+
+# Ignore specific files in .vs folder
+.vs/AuthSystem/FileContentindex*
+.vs/AuthSystem/*.vsidx
+
+# Ignore specific files in obj folder
+obj/*.csproj.nuget.dgspec.json
+obj/project.assets.json
+obj/project.nuget.cache
+
+# Ignore specific files in Debug folder under obj
+obj/Debug/net8.0/AuthSystem.Assemblyinfo.cs
+obj/Debug/net8.0/AuthSystem.AssemblyInfolnputs.cache
+obj/Debug/net8.0/AuthSystem.assets.cache
+obj/Debug/net8.0/AuthSystem.GeneratedMSBuildEditorConfig.editorconfig
+
+# Ignore build output directories
+bin/
+obj/
+Debug/
+
+# Ignore Node.js dependencies directory
+node_modules/
+
+# Ignore compiled binaries and temporary build files
+*.dll
+*.pdb
+
 # Ignore sensitive or machine-specific information
 appsettings.json
 *.bak
 
 # Ignore compiled files
 *.exe
-*.dll
 
 # Ignore user-specific files
 .DS_Store

@@ -35,10 +35,12 @@ obj/project.assets.json
 obj/project.nuget.cache
 
 # Ignore specific files in Debug folder under obj
-obj/Debug/net8.0/AuthSystem.Assemblyinfo.cs
-obj/Debug/net8.0/AuthSystem.AssemblyInfolnputs.cache
-obj/Debug/net8.0/AuthSystem.assets.cache
 obj/Debug/net8.0/AuthSystem.GeneratedMSBuildEditorConfig.editorconfig
+
+# Ignore specific files in Debug folder under obj (excluding AuthSystem.Assemblyinfo.cs and AuthSystem.AssemblyInfolnputs.cache)
+obj/Debug/net8.0/*.cs
+!obj/Debug/net8.0/*.Assemblyinfo.cs
+!obj/Debug/net8.0/*.AssemblyInfolnputs.cache
 
 # Ignore build output directories
 bin/

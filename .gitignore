@@ -6,6 +6,7 @@
 *.userosscache
 *.sln.docstates
 *.ipch/
+.vs/AuthSystem/v17/DocumentLayout.json
 
 # Ignore ReSharper files
 _ReSharper*/

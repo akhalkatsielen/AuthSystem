@@ -856,3 +856,4 @@ C:\Users\eakhalkatsi\Desktop\AuthSystem\AuthSystem\obj\Debug\net8.0\refint\AuthS
 C:\Users\eakhalkatsi\Desktop\AuthSystem\AuthSystem\obj\Debug\net8.0\AuthSystem.pdb
 C:\Users\eakhalkatsi\Desktop\AuthSystem\AuthSystem\obj\Debug\net8.0\AuthSystem.genruntimeconfig.cache
 C:\Users\eakhalkatsi\Desktop\AuthSystem\AuthSystem\obj\Debug\net8.0\ref\AuthSystem.dll
+C:\Users\eakhalkatsi\Desktop\AuthSystem\obj\Debug\net8.0\AuthSystem.sourcelink.json

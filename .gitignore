@@ -1,0 +1,54 @@
+# Ignore Visual Studio temporary files, build results, and
+# folder-based project configuration
+.vs/
+*.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.ipch/
+*.obj/
+*.bin/
+*.dll
+*.pdb
+
+# Ignore NuGet packages directory
+packages/
+
+# Ignore Node.js dependencies directory
+node_modules/
+
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore ReSharper files
+_ReSharper*/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore JetBrains Rider files
+.idea/
+*.iml
+
+# Ignore generated files
+*.log
+*.cache
+
+# Ignore sensitive or machine-specific information
+appsettings.json
+*.bak
+
+# Ignore compiled files
+*.exe
+*.dll
+
+# Ignore user-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore user-specific settings
+*.suo
+*.user
+*.sln.docstates
